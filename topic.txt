@@ -1,0 +1,2 @@
+1. /bin/bash Menentukan shell yang dipakai untuk menjalankan perintah → Bash.
+Artinya: pakai bash, bukan shell lain (zsh, sh, dll).
